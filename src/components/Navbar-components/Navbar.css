@@ -1,0 +1,23 @@
+.main__navbar {
+  background-color: #fefefe !important;
+  color:#fefefe !important;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+.navbar__button__one{
+ padding: 10px 10px;
+ border: 1px solid #fefefe;
+ color: #fefefe;
+ background-color:#880808;
+ border-radius: 8px;
+ font-size: 15px;
+ font-weight: 500;
+}
+.navbar__button__two{
+  padding: 10px 10px;
+  border: 2px solid rgba(0,0,0,0.5);
+  color: #880808;
+  background-color:#fefefe;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+ }
