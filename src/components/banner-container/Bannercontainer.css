@@ -1,0 +1,23 @@
+.banner__single__container{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-evenly;
+   border-bottom: 1px solid rgba(0,0,0,0.2);
+   
+}
+.container__image{
+    width: 50%;
+}
+.description__title{
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.description{
+    max-width: 500px;
+    line-height: 2;
+    font-size: 18px;
+    font-weight: 500;
+    
+}

@@ -1,0 +1,30 @@
+.custom__container__css{
+    background-color: #F3D3D9;
+    padding: 20px;
+}
+.tear__alternate{
+    width: 180px;
+    height: 180px;
+    border-radius: 0 50% 50% 50%;
+    /* border: 3px solid #880808; */
+    transform: rotate(45deg);
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #880808;
+    color: #fefefe;
+    cursor: pointer;
+}
+.tear__stats__alt{
+    transform: rotate(-45deg);
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    color: #fefefe;
+}
+.tear__description__alt{
+    font-size: 15px;
+    font-weight: 600;   
+  }
