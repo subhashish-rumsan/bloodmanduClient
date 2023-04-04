@@ -10,8 +10,8 @@ const Home = () => {
     <div>
       <Navbar />
       {/* <Banner /> */}
-      {/* <Bannercontainer /> */}
-      {/* <Stats /> */}
+      <Bannercontainer />
+      {/* <Stats />  need to work*/}
       <Whatwecando />
       <Footer />
     </div>
